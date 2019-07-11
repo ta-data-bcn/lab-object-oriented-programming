@@ -7,7 +7,13 @@ Let's practise a bit of object-oriented programming to strengthen everything we 
 Solve the following katas using python objects:
 
 * [Remove All The Marked Elements of a List](https://www.codewars.com/kata/remove-all-the-marked-elements-of-a-list)
+
+    Solution link: https://www.codewars.com/kata/reviews/56308b64fdaa7c0e700000d5/groups/5d2600b0f3970b0001a1a671
+
 * [Method For Counting Total Occurence Of Specific Digits](https://www.codewars.com/kata/method-for-counting-total-occurence-of-specific-digits)
+
+    Solution link: https://www.codewars.com/kata/reviews/56312d8de29fcd4e97000060/groups/5d26d7e1b3a635000132adea
+
 * [Ordered Count of Characters](https://www.codewars.com/kata/ordered-count-of-characters)
 
 ## Deliverables
