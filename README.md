@@ -16,5 +16,8 @@ Solve the following katas using python objects:
 
 * [Ordered Count of Characters](https://www.codewars.com/kata/ordered-count-of-characters)
 
+    Solution link: https://www.codewars.com/kata/reviews/57a73a26845079abbc000080/groups/57a73a2702f0954c29000145
+
 ## Deliverables
+
 Once you finish the task, send your solution links to the TAs. 
